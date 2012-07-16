@@ -1,0 +1,1 @@
+1       *       1       *       *       root    lockf -s -t 0 /var/run/update_unbound_root_keys.lockf /usr/local/libexec/cn/update_unbound_root_keys/update_unbound_ro    ot_keys.sh | mail -E -s "/usr/local/libexec/cn/update_unbound_root_keys/update_unbound_root_keys.sh" root@localhost
